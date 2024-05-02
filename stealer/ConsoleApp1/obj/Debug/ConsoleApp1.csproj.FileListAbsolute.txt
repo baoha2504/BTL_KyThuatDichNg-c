@@ -1,0 +1,7 @@
+D:\Stealer\stealer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Stealer\stealer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Stealer\stealer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Stealer\stealer\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Stealer\stealer\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Stealer\stealer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Stealer\stealer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
